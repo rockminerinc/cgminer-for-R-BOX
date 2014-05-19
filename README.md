@@ -1,4 +1,4 @@
 cgminer-for-R-BOX
 =================
 
-This is cgminer version for R-BOX,handbook of it can be downlaod at RM website:rockminer.com
+This is cgminer version for R-BOX,handbook of it can be downloaded at RM website:rockminer.com
