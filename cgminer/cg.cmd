@@ -1,1 +1,0 @@
-cgminer.exe -o stratum+tcp://stratum.mining.eligius.st:3334 -u 18Y5YneZUayT8KbDBb4WrrqM1qxqLa1ekh -p x --icarus-options 115200:1:1 --anu-freq 290
