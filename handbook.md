@@ -32,33 +32,45 @@ All of the Win7/Win8、XP system should set as following:
 * connect power adapter and the USB line;
 * 
 * Unpack the zip file named cgminer_windows.rar;
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image001.jpg)
 
 * Double click the file named zadig_xp_2.1.0,and click “Options” in menu list, tick “List All Device”
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image002.jpg)
 
 * Choose “CP2012 USB to UART Bridge Controller” in drop-down list
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image003.jpg)
 
 * Click “Install Drive” and wait
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image005.jpg)
 
 * After the driver installed successfully, you’ll see
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image006.jpg)
 
 * Close the window and you did a good job
+
 #####Step 3. Set parameters
 * Setting mining pool：open the folder named Cigminer, choose file named cg, which is a .cmd file
 * Click right button of mouse, choose “edit” with Chinese name “编辑”
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image008.jpg)
 
 * Change mining pool and wallet address. The default pool address of this cgminer version is eligius, that means you can just change wallet address to be yours if you are going to use eligius.
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image009.jpg)
-* 
+
 ###### Very important: If the mining pool is not eligius, you should follow pools’ rule to set specs.
+
 * Set chips working frequence. The effective range of working frequence is 270M, and you should save .txt when frequence’s been changed.
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image010.jpg)
 
 ###Mining
+
 * After double clicked the file named cg, R-BOX will work
+
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image012.jpg)
