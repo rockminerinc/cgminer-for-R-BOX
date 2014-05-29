@@ -25,7 +25,7 @@ However, Win7/Win8 system don’t have to download the driver as above.
 All of the Win7/Win8、XP system should set as following:
 
 #####Step 1.
-[Download Software](https://github.com/rockminerinc/cgminer-for-R-BOX)
+[Download Software](https://github.com/rockminerinc/cgminer-for-R-BOX/blob/master/cgminer-win0.3.1.zip)
 
 #####Step 2. Install Driver
 
