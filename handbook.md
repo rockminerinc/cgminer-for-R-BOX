@@ -37,11 +37,11 @@ All of the Win7/Win8、XP system should set as following:
 
 * Double click the file named zadig_xp_2.1.0,and click “Options” in menu list, tick “List All Device”
 
-![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image002.jpg)
+![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image003.jpg)
 
 * Choose “CP2012 USB to UART Bridge Controller” in drop-down list
 
-![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image003.jpg)
+![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image002.jpg)
 
 * Click “Install Drive” and wait
 

@@ -26,20 +26,20 @@
 #####第二步、安装驱动
 
 * 连接电源适配器和USB数据线;
-* 
-* 解压压缩包cgminer_windows.rar;
+
+* 解压压缩包cgminer_windows.rar；
 
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image001.jpg)
 
-* 双击文件”zadig_xp_2.1.0“,单击菜单栏Options，选择”List All Device“。
-
-![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image002.jpg)
-
-* 在下拉菜单中选择相应的WinUSB驱动（CP2012 USB to UART Bridge Controller）。
+* 双击文件”zadig_xp_2.1.0“,单击菜单栏Options，选择”List All Device“：
 
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image003.jpg)
 
-* 点击Install Drive按钮
+* 在下拉菜单中选择相应的WinUSB驱动（CP2012 USB to UART Bridge Controller）：
+
+![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image002.jpg)
+
+* 点击Install Drive按钮：
 
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image005.jpg)
 
