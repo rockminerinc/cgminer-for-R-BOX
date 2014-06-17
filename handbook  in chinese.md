@@ -1,4 +1,4 @@
-#R-BOX挖矿教程
+﻿#R-BOX挖矿教程
 
 ###前期准备
 
@@ -63,6 +63,8 @@
 * 设置芯片工作频率：频率有效范围为270M，当您修改频率参数后请保存。
 
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image010.jpg)
+
+注意：V0.3.1以上软件使用 --rmu-freq 270
 
 ###开始挖矿
 

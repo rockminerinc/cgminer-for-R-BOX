@@ -1,4 +1,4 @@
-#The Handbook of R-BOX
+﻿#The Handbook of R-BOX
 
 ###Preparation
 
@@ -68,6 +68,8 @@ All of the Win7/Win8、XP system should set as following:
 * Set chips working frequence. The effective range of working frequence is 270M, and you should save .txt when frequence’s been changed.
 
 ![](http://www.rockminer.com/handbook%20of%20R-BOX.files/image010.jpg)
+
+Note: Version above V0.3.1 : --rmu-freq 270
 
 ###Mining
 
