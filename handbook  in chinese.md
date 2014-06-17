@@ -14,7 +14,7 @@
 ####**配套硬件
 12V/5A的电源适配器（需要客户自行购买，建议购买30元左右价格的，不建议购买10多元的）和Mini USB数据线（R-Box自带）。
 
-###开始设置
+###开始设置 
 
 如果您的电脑系统为Windows XP系统，则需先下载并安装以下驱动（Win7/Win8系统无需安装）[下载链接](http://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 
