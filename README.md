@@ -9,7 +9,5 @@ cgminer-for-R-BOX
 ######If you dont know how to use it,handbook will guide you to work on cgminer
 * handbook.md
 
-######When you compiling program,please download main version cgminer 4.3.3,after being installed,please replace the following files in main cgminer version 4.3.3.
-* cgminer.c
-* driver-icarus.c
-* miner.h
+######Source Code
+https://github.com/rockminerinc/cgminer
